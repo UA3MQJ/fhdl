@@ -2,6 +2,8 @@
 
 FORTH to verilog generator
 
+moved to https://github.com/VitaSound/fhdl
+
 ```
 alias fhdl='gforth ~/fhdl/fhdl.4th -e'
 ```
